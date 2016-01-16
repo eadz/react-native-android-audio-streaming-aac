@@ -5,7 +5,7 @@
   "main": "index.android.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/EstebanFuentealba/react-native-android-audio-streaming-aac.git"
+    "url": "git+ssh://git@github.com/eadz/react-native-android-audio-streaming-aac.git"
   },
   "keywords": [
     "react-component",
@@ -18,14 +18,13 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.11.2"
+    "react-native": "*"
   },
   "readmeFilename": "README.md",
-  "gitHead": "d14870f657d5adc304c79e2f38ad4d2b430f3be1",
   "bugs": {
-    "url": "https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac/issues"
+    "url": "https://github.com/eadz/react-native-android-audio-streaming-aac/issues"
   },
-  "homepage": "https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac#readme",
+  "homepage": "https://github.com/eadz/react-native-android-audio-streaming-aac#readme",
   "_id": "react-native-android-audio-streaming-aac@0.0.2",
   "scripts": {},
   "_shasum": "523fb989383c8b2772384f5313c80425014efc0b",
